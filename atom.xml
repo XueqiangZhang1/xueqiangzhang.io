@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-14T16:22:59.081Z</updated>
+  <updated>2017-08-15T13:52:02.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,26 +16,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/08/15/hello-world/"/>
-    <id>http://yoursite.com/2017/08/15/hello-world/</id>
-    <published>2017-08-14T16:22:59.081Z</published>
-    <updated>2017-08-14T16:22:59.081Z</updated>
+    <title>java IO��</title>
+    <link href="http://yoursite.com/2017/08/15/IO/"/>
+    <id>http://yoursite.com/2017/08/15/IO/</id>
+    <published>2017-08-15T13:52:19.404Z</published>
+    <updated>2017-08-15T13:52:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p>����һ�ֳ�����������������ݵ��޽ṹ�����ݡ��������ķ�ʽ�����������������ݱ������޽ṹ���ֽ������ַ����С�������ȡ�����ݵĲ�����Ϊ��ȡ���������������������ݵĲ�����Ϊ�����������������������������������ͳ�ΪIO�������仰˵��IO�����������ķ�ʽ������������</p>
+<h2 id="����Ϊ�������������������ɷ�Ϊ�ֽ����ַ���"><a href="#����Ϊ�������������������ɷ�Ϊ�ֽ����ַ���" class="headerlink" title="����Ϊ�������������������ɷ�Ϊ�ֽ����ַ���"></a>����Ϊ�������������������ɷ�Ϊ�ֽ����ַ���</h2><h3 id="������"><a href="#������" class="headerlink" title="������"></a>������</h3><p>���壺<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">���õ���������</div><div class="line">inputstream: FileInputStream</div></pre></td></tr></table></figure></p>
+<h3 id="������-1"><a href="#������-1" class="headerlink" title="������"></a>������</h3><p>���壺<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">���õ���������</div><div class="line">OutputStream</div></pre></td></tr></table></figure></p>
+<h3 id="�ֽ���"><a href="#�ֽ���" class="headerlink" title="�ֽ���"></a>�ֽ���</h3><p>����<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">���õ��ֽ�����</div></pre></td></tr></table></figure></p>
+<h3 id="�ַ���"><a href="#�ַ���" class="headerlink" title="�ַ���"></a>�ַ���</h3><p>����<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">���õ��ַ�����</div></pre></td></tr></table></figure></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;����һ�ֳ�����������������ݵ��޽ṹ�����ݡ��������ķ�ʽ�����������������ݱ������޽ṹ���ֽ������ַ����С�������ȡ�����ݵĲ�����Ϊ��ȡ���������������������ݵĲ�
     
     </summary>
     
